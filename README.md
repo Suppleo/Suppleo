@@ -1,4 +1,4 @@
-Second-year 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭, future 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. My ambition is to contribute to innovative projects, collaborate with talented teams, and continuously enhance my skills to stay at the forefront of technological advancements in software development.
+Third-year 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭, future 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. My ambition is to contribute to innovative projects, collaborate with talented teams, and continuously enhance my skills to stay at the forefront of technological advancements in software development.
 
 𝐒𝐤𝐢𝐥𝐥𝐬:
 
