@@ -10,11 +10,11 @@ Third-year 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐬�
 
 • 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MongoDB, Firebase
 
-• 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: Git
+• 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: Git, Github Pages, Linux
 
-• 𝐖𝐨𝐫𝐤 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Google Workspace
+• 𝐖𝐨𝐫𝐤 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Google Workspace, Notion
 
-• 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: English, Vietnamese
+• 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: English (IELTS 7.5), Vietnamese (Native)
 
 
 I'm excited about new opportunities and challenges where I can apply my computer science knowledge to real-world projects.
