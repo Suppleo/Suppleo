@@ -4,7 +4,7 @@ Third-year **Computer Science student**, future **full-stack developer**. My amb
 - **Front-end:** ReactJS, Bootstrap
 - **Back-end:** Node.js, Express.js
 - **Database:** MySQL, MongoDB, Firebase
-- **Tools:** Git, Github Pages, Visual Studio Code, Linux, npm
+- **Tools:** Git, Github Pages, Visual Studio Code, Linux, npm, Google Cloud Platform, Vite
 - **Work management:** Google Workspace, Slack, Notion, Agile, Scrum
 
 I'm excited about new opportunities and challenges where I can apply my computer science knowledge to real-world projects.
