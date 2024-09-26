@@ -1,7 +1,5 @@
 Third-year **Computer Science student**, future **full-stack developer**. My ambition is to contribute to innovative projects, collaborate with talented teams, and continuously enhance my skills to stay at the forefront of technological advancements in software development.
 
-𝐒𝐤𝐢𝐥𝐥𝐬:
-
 - **Programming Languages:**  HTML, CSS, Javascript, TypeScript, C, C++, Python, SQL, Bash
 - **Front-end:** ReactJS, Bootstrap
 - **Back-end:** Node.js, Express.js
